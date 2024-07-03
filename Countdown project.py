@@ -9,7 +9,6 @@ def countdown_timer(seconds):
     
     print("It's Showtime!")
 
-# Get user input for the countdown time
 user_input = input("Please enter the time to countdown in seconds: ")
 
 try:
